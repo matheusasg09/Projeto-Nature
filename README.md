@@ -18,7 +18,7 @@
 
 ## ◾ Projeto
 
-O Nature é um projeto totalmente responsivo feito com HTML, CSS e jQuery. O principal intuito era fazer tudo com a blibioteca jQuery.
+O Nature é um projeto totalmente responsivo feito com jQuery. O principal intuito era solidificar conhecimentos da biblioteca.
 
 #### Visitar o site: [Nature.com](https://www.origamid.com/projetos/nature/)
 
